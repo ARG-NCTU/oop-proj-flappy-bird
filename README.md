@@ -1,6 +1,9 @@
 # Game Demo
 ![Game Demo](demo_flappy.gif)
 
+# Class Diagram
+![Class Diagram](classes_flappy.png)
+
 # If you cannot enter docker
 First open the terminal and type
 ```
