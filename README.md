@@ -2,7 +2,7 @@
 ![Game Demo](demo_flappy.gif)
 
 # Class Diagram
-![Class Diagram](classes_flappy.png)
+This is written with mermaid
 ```mermaid
 classDiagram
     class Game{
@@ -53,6 +53,8 @@ classDiagram
         +update_current_player_image()
     }
 ```
+This is made by parsing main.py using pylint
+![Class Diagram](classes_flappy.png)
 
 # If you cannot enter docker
 First open the terminal and type
